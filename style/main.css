@@ -7,6 +7,9 @@ img {
 }
 
 body { 
-font-family: "montserrat", sans-serif;
+	font-family: "montserrat", sans-serif;
 }
 
+.red {
+	border: 2px solid red;
+}
